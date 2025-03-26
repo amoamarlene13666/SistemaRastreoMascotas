@@ -1,0 +1,37 @@
+# Ignorar carpetas del sistema operativo y configuraciones locales
+AppData/
+Configuración local/
+Cookies/
+Datos de programa/
+Documents/Mi música/
+Documents/Mis imágenes/
+Documents/Mis vídeos/
+
+# Ignorar archivos de usuario del sistema operativo
+NTUSER.DAT*
+*.lnk
+
+# Ignorar logs y ejecutables
+*.log
+*.exe
+
+# Ignorar otros archivos de sistema (opcional)
+Thumbs.db
+.DS_Store
+Ignorar configuraciones de herramientas
+.gradle/
+.m2/
+.vscode/
+.VirtualBox/
+# Ignorar carpetas del sistema
+AppData/
+Configuración local/
+Cookies/
+Datos de programa/
+*.log
+*.exe
+*.lnk
+*.class
+/target/
+/bin/
+/logs/
