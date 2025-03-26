@@ -1,37 +1,17 @@
-# Ignorar carpetas del sistema operativo y configuraciones locales
-AppData/
-Configuración local/
-Cookies/
-Datos de programa/
-Documents/Mi música/
-Documents/Mis imágenes/
-Documents/Mis vídeos/
+# Ignorar todo
+*
 
-# Ignorar archivos de usuario del sistema operativo
-NTUSER.DAT*
-*.lnk
+# Permitir únicamente los archivos y carpetas del proyecto
+!MiProyecto/
+!MiProyecto/**
 
-# Ignorar logs y ejecutables
+# Ignorar artefactos de compilación y configuraciones locales
 *.log
-*.exe
-
-# Ignorar otros archivos de sistema (opcional)
-Thumbs.db
-.DS_Store
-Ignorar configuraciones de herramientas
+*.tmp
+*.env
+node_modules/
+target/
+bin/
 .gradle/
 .m2/
 .vscode/
-.VirtualBox/
-# Ignorar carpetas del sistema
-AppData/
-Configuración local/
-Cookies/
-Datos de programa/
-*.log
-*.exe
-*.lnk
-*.class
-/target/
-/bin/
-/logs/
