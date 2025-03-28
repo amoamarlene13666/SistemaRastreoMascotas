@@ -1,0 +1,58 @@
+Listado de rutas de carpetas para el volumen Acer
+El número de serie del volumen es 525B-29AC
+C:.
++---app
+¦   +---src
+¦       +---main
+¦       ¦   +---java
+¦       ¦       +---org
+¦       ¦           +---example
+¦       ¦               +---app
+¦       +---test
+¦           +---java
+¦               +---org
+¦                   +---example
+¦                       +---app
++---build-logic
+¦   +---src
+¦       +---main
+¦           +---kotlin
++---gradle
+¦   +---wrapper
++---list
+¦   +---src
+¦       +---main
+¦       ¦   +---java
+¦       ¦       +---org
+¦       ¦           +---example
+¦       ¦               +---list
+¦       +---test
+¦           +---java
+¦               +---org
+¦                   +---example
+¦                       +---list
++---src
+¦   +---main
+¦       +---java
+¦       ¦   +---com
+¦       ¦       +---example
+¦       ¦           +---backend
+¦       +---resources
++---target
+¦   +---classes
+¦   ¦   +---com
+¦   ¦       +---example
+¦   ¦           +---backend
+¦   +---maven-archiver
+¦   +---maven-status
+¦       +---maven-compiler-plugin
+¦           +---compile
+¦               +---default-compile
++---utilities
+    +---src
+        +---main
+            +---java
+                +---org
+                    +---example
+                        +---list
+                        +---utilities
