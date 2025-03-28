@@ -5,8 +5,7 @@
  */
 
 plugins {
-    id("buildlogic.java-application-conventions")
-}
+    id("io.spring.dependency-management") version "1.0.15.RELEASE"
 
 dependencies {
     implementation("org.apache.commons:commons-text")

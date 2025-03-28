@@ -1,3 +1,0 @@
-rootProject.name = 'backend'
-include('app') // Solo incluye el subproyecto app por ahora
-// include('list', 'utilities') // Puedes descomentarlo cuando estés listo para integrarlos
