@@ -1,0 +1,6 @@
+com\rastreo\mascotas\MascotaController.class
+com\rastreo\mascotas\HomeController.class
+com\rastreo\mascotas\Mascota.class
+com\rastreo\mascotas\Application.class
+com\rastreo\mascotas\CustomErrorController.class
+com\rastreo\mascotas\MascotaRepository.class
