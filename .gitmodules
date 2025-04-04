@@ -1,0 +1,3 @@
+[submodule "MiProyecto/SistemaRastreoMascotas"]
+	path = MiProyecto/SistemaRastreoMascotas
+	url = https://github.com/amoamarlene13666/SistemaRastreoMascotas.git
